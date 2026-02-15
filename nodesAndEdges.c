@@ -16,7 +16,7 @@ int numEdges = 0;
 
 int findOrAddNode(double lat, double lon) {
 
-    double tolerance = 0.0001;  // 1e^-6 that is if the node is within that distance we join them
+    double tolerance = 0.0001;  
     
     for (int i = 0; i < numNodes; i++) 
     {
