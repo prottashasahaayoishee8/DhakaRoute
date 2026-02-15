@@ -18,7 +18,7 @@ int main() {
 
     while (1) 
     {
-        printf("\n-------Mr Efficient--------\n");
+        printf("\n-------Mr. Efficient--------\n");
         printf("[1] Shortest Car Route [Problem 1]\n");
         printf("[2] Cheapest Route(Car and Metro) [Problem 2]\n");
         printf("[3] Cheapest Route(Car, Metro and Bus) [Problem 3]\n");
